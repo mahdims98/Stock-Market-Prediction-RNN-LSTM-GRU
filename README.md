@@ -16,16 +16,6 @@ Simple stock market prediction of apple and google stocks proice using RNN, LSTM
 - [Reduce Overfitting With Dropout](https://machinelearningmastery.com/how-to-reduce-overfitting-with-dropout-regularization-in-keras/ "Reduce Overfitting With Dropout")
    
 
-## Results
-  ### DCGAN-added-noise
-![DCGAN-added-noise](/added-noise.png "added noise")
-  
-  ### WGAN
-![WGAN](/WGAN.png "Home Page")
-
-  ### WGAN-GP
-![WGAN-GP](/Wgan-GP.png)
-
 
 ## Built With
 
